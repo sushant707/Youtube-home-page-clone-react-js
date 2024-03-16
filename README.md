@@ -1,2 +1,2 @@
 # Youtube-home-page-clone-react-js
- Youtube Clone with React Tailwind and TypeScript
+  Basic Youtube homepage Clone with React Tailwind and TypeScript
