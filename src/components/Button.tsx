@@ -18,7 +18,7 @@ export const buttonStyles = cva(["transition-colors"], {
       icon: [
         "rounded-full",
         "w-10",
-        // "h-10",
+        "h-10",
         "flex",
         "items-center",
         "justify-center",
